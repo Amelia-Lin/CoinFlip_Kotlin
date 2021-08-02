@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoinFlip</string>
+    <string name="button">Button</string>
+    <string name="flip">flip</string>
+    <string name="flipACoin">flip a coin</string>
+    <string name="heads">heads</string>
+    <string name="tails">tails</string>
+</resources>
